@@ -1,0 +1,11 @@
+ O volume na unidade D ‚ Grogu
+ O N£mero de S‚rie do Volume ‚ 7C65-DC4C
+
+ Pasta de D:\developer\horn\tutorial
+
+24/05/2023  14:08    <DIR>          .
+24/05/2023  14:08    <DIR>          ..
+24/05/2023  14:08                 0 dir.txt
+24/05/2023  14:07                10 README.md
+               2 arquivo(s)             10 bytes
+               2 pasta(s)   92.627.894.272 bytes dispon¡veis
